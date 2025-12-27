@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beach Road RP</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="hero">
+    <nav class="navbar">
+      <div class="logo">Beach Road RP</div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#join">Join</a></li>
+      </ul>
+      <a href="#join" class="btn btn-main">Play Now</a>
+    </nav>
+    <div class="hero-content">
+      <h1>Welcome to Beach Road RP</h1>
+      <p>The most immersive GTA V Roleplay experience on the coast.</p>
+      <a href="#join" class="btn btn-hero">Get Started</a>
+    </div>
+  </header>
+
+  <section id="about" class="section about">
+    <h2>About Beach Road RP</h2>
+    <p>Beach Road RP is a premier GTA V Roleplay community focused on deep roleplay, active staff, and customized systems.</p>
+  </section>
+
+  <section id="features" class="section features">
+    <h2>Features</h2>
+    <div class="feature-list">
+      <div class="feature-card">
+        <h3>Custom Systems</h3>
+        <p>Unique jobs, economy, and scripts tailored for RP depth.</p>
+      </div>
+      <div class="feature-card">
+        <h3>Active Staff</h3>
+        <p>Friendly staff moderating 24/7 to keep the server great.</p>
+      </div>
+      <div class="feature-card">
+        <h3>Community Events</h3>
+        <p>Weekly events, competitions, and storylines.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="join" class="section join">
+    <h2>Join the Server</h2>
+    <p>Ready to start roleplaying? Join our community now!</p>
+    <a href="#" class="btn btn-main">Connect to Beach Road RP</a>
+  </section>
+
+  <footer class="footer">
+    <p>© 2025 Beach Road RP — Built by You</p>
+    <p>Follow us on Discord | Instagram | Twitter</p>
+  </footer>
+</body>
+</html>
